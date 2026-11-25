@@ -18,7 +18,7 @@ chmod +x log_report.sh
 ./log_report.sh access.log
 ```
 
-## Cron (bonus)
+## Cron 
 Runs sysinfo.sh every hour:
 
 ```
